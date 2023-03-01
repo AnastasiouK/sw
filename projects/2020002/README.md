@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | 1 | Δημιουργία ομάδας, Προσθήκη πίνακα περιεχομένων, Συγγραφή της εισαγωγής | [Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1256) |
 | 2 | Γραμμή εντολών (systemd) και διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας |[Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1280) | |
-| 3 | Γραμμή εντολών (no systemd) |[Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1313) | |
+| 3 | Γραμμή εντολών (no systemd) |[Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1313) | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (custom static blog generator) | | |

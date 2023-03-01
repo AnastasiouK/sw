@@ -28,4 +28,4 @@
 ### Πρώτη άσκηση γραμμή εντολών
 [systemd](https://asciinema.org/a/4hX9sZxduNQtpwX8Hv3RkDNzH)
 ### Δεύτερη άσκηση γραμμή εντολών
-[nonsystemd]([https://asciinema.org/a/4hX9sZxduNQtpwX8Hv3RkDNzH](https://asciinema.org/a/cK1T64I2gIAZhkfNuVHwvaECq))
+[nonsystemd](https://asciinema.org/a/cK1T64I2gIAZhkfNuVHwvaECq)
